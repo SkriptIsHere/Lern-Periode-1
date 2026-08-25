@@ -5,7 +5,7 @@
 ## Grob-Planung
 
 1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-2. Was wäre ein geeignetes Projekt für diese LP1?
+2. Quiz master(ähnlich wie "wer wird Millionär") 1 frage 4 antwortmöglichkeiten, mit jeder richtigen antwort bekommt man punkte, bei falsch direkt zum anfang. Die fragen sollen in einer random reihenfolge kommen.
 
 ## 28.8.2026
 
