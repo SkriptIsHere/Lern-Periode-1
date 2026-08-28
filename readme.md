@@ -11,15 +11,12 @@
 Heute habe ich angefangen mit meinen Projekt Quiz Masters. Zuerst habe ich am Titel gearbeitet und wollte was spezielles erstellen, ich habe dann versucht es mit der ASCII Art Technik machen was auch funktionierte aber erstens sehr aufwändig war und es schwer war sie zu bewegen. Darum habe ich dann wie im Code zusehen die Normale Art genommen und es dann so eingebaut. Als nächstes habe ich 4 fragen mit einer variable gespeichert, doch später habe ich von ChatGPT erfahren das Arrays dafür besser geeingnet sind, weil sie mehrere Elemente mit einem Wort speichern können. Der nächste Schritt war das diese 4 Fragen in einer zufälligen Reihenfolge kommen, also gerade das es beim Start auch zufällig kommen bis jetzt. Am Ende habe ich dann noch eingefügt, dass man unter der Frage seine Antwort schreiben kann doch dies hat noch keine richtige Funktion.
 
 
-- [ ]  Die Funktion auf die Fragen antworten zu können, also zu jeder Frage die Richtige Antwort hinzufügen.
-- [ ]  Nach einer richtigen Antwort soll die nächste zufällige frage kommen
-- [ ]  Nach einer richtigen Antwort soll der Benutzer punkte bekommen (z.B +5) und falls ich noch Zeit habe einen EndScore.
 
 ## 6.9.2026
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ]  Die Funktion auf die Fragen antworten zu können, also zu jeder Frage die Richtige Antwort hinzufügen.
+- [ ]  Nach einer richtigen Antwort soll die nächste zufällige frage kommen
+- [ ]  Nach einer richtigen Antwort soll der Benutzer punkte bekommen (z.B +5) und falls ich noch Zeit habe einen EndScore.
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
