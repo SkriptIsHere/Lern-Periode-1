@@ -24,10 +24,13 @@ Heute habe ich angefangen mit meinen Projekt Quiz Masters. Zuerst habe ich am Ti
 
 ## 11.9.2026
 
+Heute habe ich zu meinen Quiz-fragen Antwort Möglichkeiten geaddet, sowie das jede Antwort zu der richtigen frage gehört. Ich habe das mit dem Index gemacht, also das die fragen und antworten die gleiche Index Nummer haben. Dann habe ich das alles in eine do...while schleiche reingetan damit nach der Antwort die nächste frage kommt und ein Score System gemacht, dass nach jeder richtigen Antwort man + 1 Score bekommt und wenn man falsch hat steht dort der Endscore. Am Ende habe ich noch mehr Fragen hinzufügt und die Positonen von den fragen verbessert.
+
+
 - [ ] Einen Titelscreen mit dem Titel "Quiz Masters"
-- [ ] Input mit dem man zum Quiz kommt
+- [ ] *Input* mit dem man zum Quiz kommt
 - [ ] Besondere Texte mit in einer anderen Farbe machen
-- [ ] 
+- [ ] Falls noch Zeit dann ein Text der nach dem *Input* eine kurze einführung macht mit Text Animation (type in animation)
 
 
 
