@@ -30,7 +30,7 @@ Heute habe ich zu meinen Quiz-fragen Antwort Möglichkeiten geaddet, sowie das j
 - [ ] Einen Titelscreen mit dem Titel "Quiz Masters"
 - [ ] *Input* mit dem man zum Quiz kommt
 - [ ] Besondere Texte mit in einer anderen Farbe machen
-- [ ] Falls noch Zeit dann ein Text der nach dem *Input* eine kurze einführung macht mit Text Animation (type in animation)
+- [ ] Falls noch Zeit dann ein Text der nach dem *Input* eine kurze einführung macht mit Text Animation (type in animation) bevor das Quiz startet.
 
 
 
