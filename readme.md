@@ -14,9 +14,9 @@ Heute habe ich angefangen mit meinen Projekt Quiz Masters. Zuerst habe ich am Ti
 
 ## 6.9.2026
 
-- [ ]  Die Funktion auf die Fragen antworten zu können, also zu jeder Frage die Richtige Antwort hinzufügen.
-- [ ]  Nach einer richtigen Antwort soll die nächste zufällige frage kommen
-- [ ]  Nach einer richtigen Antwort soll der Benutzer punkte bekommen (z.B +5) und falls ich noch Zeit habe einen EndScore.
+- [x]  Die Funktion auf die Fragen antworten zu können, also zu jeder Frage die Richtige Antwort hinzufügen.
+- [x]  Nach einer richtigen Antwort soll die nächste zufällige frage kommen
+- [x]  Nach einer richtigen Antwort soll der Benutzer punkte bekommen (z.B +1) und falls ich noch Zeit habe einen EndScore.
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
