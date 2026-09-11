@@ -24,7 +24,7 @@ Heute habe ich angefangen mit meinen Projekt Quiz Masters. Zuerst habe ich am Ti
 
 ## 11.9.2026
 
-- [ ] Gleiche fragen dürfen nicht nacheinander kommen
+- [X] Gleiche fragen dürfen nicht nacheinander kommen(mini Arbeitspaket)
 - [ ] Einen Titelscreen mit dem Titel "Quiz Masters"
 - [ ] *Input* mit dem man zum Quiz kommt
 - [ ] Besondere Texte mit in einer anderen Farbe machen
