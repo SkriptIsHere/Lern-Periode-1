@@ -32,7 +32,7 @@ Heute habe ich angefangen mit meinen Projekt Quiz Masters. Zuerst habe ich am Ti
 - [x] Die Möglichkeit mit Zahlen zu antworten
       
  HA:
-- [ ] Ich möchte generell mehr Allgemein Wissen Fragen einfügen und noch eine Animation für die Fragen geben.
+- [ ] Ich möchte generell mehr Allgemein Wissen Fragen einfügen und noch eine Animation (type in animation) für die Fragen machen
 
 
 Heute habe ich eine variable gemacht die, die letzte Frage merkt und anschliessend habe ich gemacht, dass die gleichen Fragen nicht nacheinander kommen. Dann habe ich einen Titelscreen gemacht bei dem man wählen kann ob man spielen will oder Verlassen. Ich habe gelernt wie man texte verschiedene farben geben kann und habe sie angewendet. Zwischen Titelscreen und dem Quiz habe ich einen Loading screen  mit animation gemacht. Ich habe gemacht, dass es keine rolle mehr spielt ob man gross oder klein schreibt und bei einer frage habe ich gemacht das man auch mit einer Zahl antworten kann. 
