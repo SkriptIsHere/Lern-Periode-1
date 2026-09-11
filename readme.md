@@ -27,7 +27,7 @@ Heute habe ich angefangen mit meinen Projekt Quiz Masters. Zuerst habe ich am Ti
 - [X] Gleiche fragen dürfen nicht nacheinander kommen.
 - [X] Einen Titelscreen mit dem Titel "Quiz Masters"
 - [X] *Input* mit dem man zum Quiz kommt
-- [ ] Besondere Texte mit in einer anderen Farbe machen
+- [X] Besondere Texte mit einer anderen Farbe machen
 - [ ] Falls noch Zeit dann ein Text der nach dem *Input* eine kurze einführung macht mit Text Animation (type in animation) bevor das Quiz startet.
 
 
