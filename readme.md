@@ -32,4 +32,7 @@ Heute habe ich angefangen mit meinen Projekt Quiz Masters. Zuerst habe ich am Ti
 - [x] Die Möglichkeit mit Zahlen zu antworten
 
 
+Heute habe ich eine variable gemacht die, die letzte Frage merkt und anschliessend habe ich gemacht, dass die gleichen Fragen nicht nacheinander kommen.
+
+
 
