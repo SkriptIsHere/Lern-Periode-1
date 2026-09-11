@@ -18,15 +18,13 @@ Heute habe ich angefangen mit meinen Projekt Quiz Masters. Zuerst habe ich am Ti
 - [x]  Nach einer richtigen Antwort soll die nächste zufällige frage kommen
 - [x]  Nach einer richtigen Antwort soll der Benutzer punkte bekommen (z.B +1) und falls ich noch Zeit habe einen EndScore.
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich zu meinen Quiz-fragen Antwort Möglichkeiten geaddet, sowie das jede Antwort zu der richtigen frage gehört. Ich habe das mit dem Index gemacht, also das die fragen und antworten die gleiche Index Nummer haben. Dann habe ich das alles in eine do...while schleiche reingetan damit nach der Antwort die nächste frage kommt und ein Score System gemacht, dass nach jeder richtigen Antwort man + 1 Score bekommt und wenn man falsch hat steht dort der Endscore. Am Ende habe ich noch mehr Fragen hinzufügt und die Positonen von den fragen verbessert.
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
 
 ## 11.9.2026
 
-Heute habe ich zu meinen Quiz-fragen Antwort Möglichkeiten geaddet, sowie das jede Antwort zu der richtigen frage gehört. Ich habe das mit dem Index gemacht, also das die fragen und antworten die gleiche Index Nummer haben. Dann habe ich das alles in eine do...while schleiche reingetan damit nach der Antwort die nächste frage kommt und ein Score System gemacht, dass nach jeder richtigen Antwort man + 1 Score bekommt und wenn man falsch hat steht dort der Endscore. Am Ende habe ich noch mehr Fragen hinzufügt und die Positonen von den fragen verbessert.
-
-
+- [ ] Gleiche fragen dürfen nicht nacheinander kommen
 - [ ] Einen Titelscreen mit dem Titel "Quiz Masters"
 - [ ] *Input* mit dem man zum Quiz kommt
 - [ ] Besondere Texte mit in einer anderen Farbe machen
