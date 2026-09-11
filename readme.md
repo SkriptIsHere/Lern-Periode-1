@@ -28,7 +28,7 @@ Heute habe ich angefangen mit meinen Projekt Quiz Masters. Zuerst habe ich am Ti
 - [X] Einen Titelscreen mit dem Titel "Quiz Masters"
 - [X] *Input* mit dem man zum Quiz kommt
 - [X] Besondere Texte mit einer anderen Farbe machen
-- [ ] Falls noch Zeit dann ein Text der nach dem *Input* eine kurze einführung macht mit Text Animation (type in animation) bevor das Quiz startet.
+- [ ] Ein Text der nach dem *Input* einen loading screen macht mit Text Animation (type in animation) bevor das Quiz startet.
 - [ ] Die Möglichkeit mit Zahlen zu antworten
 
 
