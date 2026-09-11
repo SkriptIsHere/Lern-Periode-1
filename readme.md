@@ -30,10 +30,16 @@ Heute habe ich angefangen mit meinen Projekt Quiz Masters. Zuerst habe ich am Ti
 - [X] Besondere Texte mit einer anderen Farbe machen
 - [x] Ein Text der nach dem *Input* einen loading screen macht mit Text Animation (type in animation) bevor das Quiz startet.
 - [x] Die Möglichkeit mit Zahlen zu antworten
-- [ ] Effekt wenn richtige Antwort
+      HA:
+- [ ] Ich möchte generell mehr Allgemein Wissen Fragen einfügen und noch eine Animation für die Fragen geben.
 
 
-Heute habe ich eine variable gemacht die, die letzte Frage merkt und anschliessend habe ich gemacht, dass die gleichen Fragen nicht nacheinander kommen. Dann habe ich einen Titelscreen gemacht bei dem man wählen kann ob man spielen will oder Verlassen. Ich habe gelernt wie man texte verschiedene farben geben kann und habe sie angewendet. Zwischen Titelscreen und dem Quiz habe ich einen Loading screen gemacht.
+Heute habe ich eine variable gemacht die, die letzte Frage merkt und anschliessend habe ich gemacht, dass die gleichen Fragen nicht nacheinander kommen. Dann habe ich einen Titelscreen gemacht bei dem man wählen kann ob man spielen will oder Verlassen. Ich habe gelernt wie man texte verschiedene farben geben kann und habe sie angewendet. Zwischen Titelscreen und dem Quiz habe ich einen Loading screen  mit animation gemacht. Ich habe gemacht, dass es keine rolle mehr spielt ob man gross oder klein schreibt und bei einer frage habe ich gemacht das man auch mit einer Zahl antworten kann. 
+
+## 18.9.2026
+
+- [ ] Die Funktion machen das egal wie lange ein Text ist, dass der in der Mitte ist
+- [ ]  Partikel Effekt (mit . oder # ) wenn man die Antwort richtig hat.
 
 
 
