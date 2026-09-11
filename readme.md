@@ -30,9 +30,10 @@ Heute habe ich angefangen mit meinen Projekt Quiz Masters. Zuerst habe ich am Ti
 - [X] Besondere Texte mit einer anderen Farbe machen
 - [x] Ein Text der nach dem *Input* einen loading screen macht mit Text Animation (type in animation) bevor das Quiz startet.
 - [x] Die Möglichkeit mit Zahlen zu antworten
+- [ ] Effekt wenn richtige Antwort
 
 
-Heute habe ich eine variable gemacht die, die letzte Frage merkt und anschliessend habe ich gemacht, dass die gleichen Fragen nicht nacheinander kommen.
+Heute habe ich eine variable gemacht die, die letzte Frage merkt und anschliessend habe ich gemacht, dass die gleichen Fragen nicht nacheinander kommen. Dann habe ich einen Titelscreen gemacht bei dem man wählen kann ob man spielen will oder Verlassen. Ich habe gelernt wie man texte verschiedene farben geben kann und habe sie angewendet. Zwischen Titelscreen und dem Quiz habe ich einen Loading screen gemacht.
 
 
 
