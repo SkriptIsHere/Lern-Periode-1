@@ -30,7 +30,8 @@ Heute habe ich angefangen mit meinen Projekt Quiz Masters. Zuerst habe ich am Ti
 - [X] Besondere Texte mit einer anderen Farbe machen
 - [x] Ein Text der nach dem *Input* einen loading screen macht mit Text Animation (type in animation) bevor das Quiz startet.
 - [x] Die Möglichkeit mit Zahlen zu antworten
-      HA:
+      
+ HA:
 - [ ] Ich möchte generell mehr Allgemein Wissen Fragen einfügen und noch eine Animation für die Fragen geben.
 
 
