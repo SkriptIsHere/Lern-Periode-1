@@ -39,7 +39,7 @@ Heute habe ich eine variable gemacht die, die letzte Frage merkt und anschliesse
 
 ## 18.9.2026
 
-- [ ] Partikel Effekt (mit . oder # ) wenn man die Antwort richtig hat.
+- [x] Partikel Effekt (mit . oder # ) wenn man die Antwort richtig hat.
 - [ ] Nach 50 punkte kommt kommt ein spezielles event
 
 
