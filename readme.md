@@ -14,6 +14,7 @@ Mein Projekt stellt den Benutzer Allgemein Wissen fragen, die man dann Beantwort
 
 
 
+## Reflexion
 Mein Projekt heisst Quiz Masters und es geht um ein Quiz. Seit dem Anfang hatte ich die Vision ein Quiz spiel mit Punktesystem der unendlich geht. Meine Inspiration ist Flappy Bird aber nur das Unendlichkeits- und Punktesystem also was ich damit meine ist, dass ich das ähnliche gefühl wie bei Flappy Bird machen wollte wo man sich mit seinen Freunden misst oder seinen eigenen Highscore brechen will.
 
 Mein wichtigstes Erfolg war die Entdeckung von Funktionen oder besser gesagt von (static void) dies hat mir viel mehr Möglichkeiten geben neue Funktionen in mein Quiz spiel einzubauen wie z.B Ein Titel-screen, ein Loading-screen usw. Es hat auch alles viel strukturirter für mich gemacht das nicht alles in einer Methode ist. Ein andere wichtiger Meilenstein war auch die Entdeckung von (Console.SetCursorPosition) was die ansicht ermöglicht hat und auch die Möglichkeit Texte zu farbieren. Honorable Mentions: Ein wichtiger Schritt um coole Funktionen zum funktionieren zu bringen war die ReadKey Funktion sowie die DateTime Funktion die sehr nützlich ist wenn man mit Zeit arbeiten will.
