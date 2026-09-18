@@ -49,6 +49,8 @@ Heute habe ich eine variable gemacht die, die letzte Frage merkt und anschliesse
 <img width="322" height="232" alt="image" src="https://github.com/user-attachments/assets/5ff1e91a-1e40-4d54-90a2-8083144b4173" />
 <img width="1737" height="742" alt="image" src="https://github.com/user-attachments/assets/1cce453a-b01f-4752-8e45-be635677858a" />
 
+Mein Projekt heisst Quiz Masters und es geht um ein Quiz. Seit dem Anfang hatte ich die Vision ein Quiz spiel mit Punktesystem der unendlich geht. Meine Inspiration ist Flappy Bird aber nur das Unendlichkeits- und Punktesystem also was ich damit meine ist, dass ich das ähnliche gefühl wie bei Flappy Bird machen wollte wo man sich mit seinen Freunden misst oder seinen eigenen Highscore brechen will.
+
 
 
 
