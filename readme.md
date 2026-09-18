@@ -2,6 +2,19 @@
 
 28.8 bis ?
 
+
+## fertiges Projekt - QUIZ MASTERS
+
+
+<img width="400" height="205" alt="code1" src="https://github.com/user-attachments/assets/3a1825d6-4e79-4727-af36-369fec230b3d" />
+<img width="400" height="203" alt="Code2" src="https://github.com/user-attachments/assets/d95ce683-c10a-4ab0-8a8f-f0ae7dbd2549" />
+
+
+
+
+Mein Projekt heisst Quiz Masters und es geht um ein Quiz. Seit dem Anfang hatte ich die Vision ein Quiz spiel mit Punktesystem der unendlich geht. Meine Inspiration ist Flappy Bird aber nur das Unendlichkeits- und Punktesystem also was ich damit meine ist, dass ich das ähnliche gefühl wie bei Flappy Bird machen wollte wo man sich mit seinen Freunden misst oder seinen eigenen Highscore brechen will.
+
+
 ## Grob-Planung
 
 1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
@@ -43,13 +56,7 @@ Heute habe ich eine variable gemacht die, die letzte Frage merkt und anschliesse
 - [x] Nach 10 punkte kommt kommt ein spezielles event
 
 
-## fertiges Projekt - QUIZ MASTERS
 
-<img width="1912" height="971" alt="image" src="https://github.com/user-attachments/assets/a8f54dfd-609c-4aa0-b7d4-065078dd9dfd" />
-<img width="322" height="232" alt="image" src="https://github.com/user-attachments/assets/5ff1e91a-1e40-4d54-90a2-8083144b4173" />
-<img width="1737" height="742" alt="image" src="https://github.com/user-attachments/assets/1cce453a-b01f-4752-8e45-be635677858a" />
-
-Mein Projekt heisst Quiz Masters und es geht um ein Quiz. Seit dem Anfang hatte ich die Vision ein Quiz spiel mit Punktesystem der unendlich geht. Meine Inspiration ist Flappy Bird aber nur das Unendlichkeits- und Punktesystem also was ich damit meine ist, dass ich das ähnliche gefühl wie bei Flappy Bird machen wollte wo man sich mit seinen Freunden misst oder seinen eigenen Highscore brechen will.
 
 
 
