@@ -5,6 +5,7 @@
 
 ## fertiges Projekt - QUIZ MASTERS
 
+Mein Projekt stellt den Benutzer Allgemein Wissen fragen, die man dann Beantworten kann. Das Quiz geht unendlich bis man falsch hat. Nach eine richtigen Antwort bekommt der Benutzer +1 Punkt und der Highscore wird auch angezeigt wenn man verloren hat.
 
 <img width="400" height="205" alt="code1" src="https://github.com/user-attachments/assets/3a1825d6-4e79-4727-af36-369fec230b3d" />
 <img width="400" height="203" alt="Code2" src="https://github.com/user-attachments/assets/d95ce683-c10a-4ab0-8a8f-f0ae7dbd2549" />
