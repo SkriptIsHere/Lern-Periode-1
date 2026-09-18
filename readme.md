@@ -43,7 +43,7 @@ Heute habe ich eine variable gemacht die, die letzte Frage merkt und anschliesse
 - [x] Nach 10 punkte kommt kommt ein spezielles event
 
 
-## fertiges Projekt
+## fertiges Projekt - QUIZ MASTERS
 
 <img width="1912" height="971" alt="image" src="https://github.com/user-attachments/assets/a8f54dfd-609c-4aa0-b7d4-065078dd9dfd" />
 <img width="322" height="232" alt="image" src="https://github.com/user-attachments/assets/5ff1e91a-1e40-4d54-90a2-8083144b4173" />
