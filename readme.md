@@ -39,8 +39,8 @@ Heute habe ich eine variable gemacht die, die letzte Frage merkt und anschliesse
 
 ## 18.9.2026
 
-- [ ] Die Funktion machen das egal wie lange ein Text ist, dass der in der Mitte bleibt.
-- [ ]  Partikel Effekt (mit . oder # ) wenn man die Antwort richtig hat.
+- [ ] Gleiche fragen sollen nicht wieder vorkommen.
+- [ ] Partikel Effekt (mit . oder # ) wenn man die Antwort richtig hat.
 
 
 
